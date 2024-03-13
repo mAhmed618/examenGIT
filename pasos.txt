@@ -1,0 +1,16 @@
+1.- Conecta tu repositorio local a uno remoto que crees en GitHub.
+2.- Haz el primer commit y push para añadir todos los ficheros actuales
+3.- Comprueba que este todo en GitHub
+4.- En una nueva rama,crea un fichero git.html con el contenido "Examen git"
+5.- Vizualisa el contenido
+6.- Añade git.html a la zona de intercambio
+7.- Modifícalo y añade una nueva linea con tu correo
+8.- Vizualiza un grafo con todas las ramas
+9.- Confirma en el repositorio local
+10.-Publica los cambios en repositroio remoto
+11.- Vizualiza un grafo con todas las ramas
+12.- vuelve a la Rama principal y has esto
+13.- confirma en tu repositorio local 
+14.- Publica los cambios en repositroio remoto
+15.- fusionar online y local
+16.- Vizualiza el grafo
